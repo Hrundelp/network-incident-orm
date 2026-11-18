@@ -1,0 +1,2 @@
+SQLAlchemy==2.0.58
+alembic==1.20.1
